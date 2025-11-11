@@ -1,0 +1,6 @@
+openai==0.28.1
+scikit-learn
+pandas
+numpy
+matplotlib
+python-dotenv

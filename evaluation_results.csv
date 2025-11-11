@@ -1,0 +1,4 @@
+query,best_product,best_score,good_match,fallback_triggered,latency_sec
+energetic urban chic,Chic Blazer,0.3032,False,False,0.059
+relaxed cozy weekend,Cozy Knit Sweater,0.4311,False,False,0.027
+bohemian festival vibes,Boho Dress,0.4337,False,False,0.033
